@@ -27,3 +27,6 @@ The project utilizes the following Python libraries:
 The project analyzes data for two specific companies:
 * **Tesla (TSLA)**
 * **GameStop (GME)**
+
+---
+**Author:** Mahsa Goodarzi
